@@ -6,3 +6,7 @@ Commands that I used in the training class:
 : git init  :start a new repo
 : git add - all :stage changes
 : git status
+
+-------
+Hosted Access GitHub or BitBucket
+Self Managed Gitosis or Gitorious
